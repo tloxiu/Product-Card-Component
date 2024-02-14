@@ -16,7 +16,7 @@ Users should be able to:
 
 ![](/design/desktop-preview.jpg)
 
-### Link
+## Link
 
 - Live Site URL: [https://product-card-component-jet.vercel.app](https://your-live-site-url.com)
 
