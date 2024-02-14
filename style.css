@@ -172,6 +172,7 @@ button{
     padding-left: 0.7rem;
     color: var(--white);
     position: relative;
+    font-size: 0.88rem;
     font-weight: bold;
     transition: 0.3s;
     cursor: pointer;
@@ -218,7 +219,7 @@ button:hover{
   }
   .ribbon-text{
     margin-left: 2rem;
-    padding-top: 2rem;
+    padding-top: 1.7rem;
     font-size: 0.75rem;
 }
   .title{
@@ -232,20 +233,20 @@ button:hover{
     width: 14.81rem;
   }
   .lower-price{
-    margin: 1.8rem 1.2rem 1.25rem 1.52rem;
+    margin: 1.875rem 1.2rem 1.25rem 2rem;
     font-size: 2rem;
   }
   .higher-price{
-    margin-top: 0.5rem;
+    margin-top: 0.8rem;
   }
   button{
     margin-left: 2rem;
     margin-right: 2rem;
+    margin-bottom: 2rem;
     width: 14.75rem;
   }
   .cart-icon{
     position: absolute;
-    margin-top: 0.18rem;
-    margin-left: 2.3rem;
-}
+    margin-left: 2.8rem;
+  }
 }
