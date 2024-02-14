@@ -18,7 +18,7 @@ Users should be able to:
 
 ## Link
 
-- Live Site URL: [https://product-card-component-jet.vercel.app](https://your-live-site-url.com)
+- Live Site URL: [https://product-card-component-jet.vercel.app]
 
 
 ## Built with
@@ -30,6 +30,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [tloxiu](https://www.your-site.com)
-- Frontend Mentor - [@tloxiu](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@tloxiu](https://www.frontendmentor.io/profile/tloxiu)
 
